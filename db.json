@@ -1,0 +1,21 @@
+{
+    "problems": [
+      { "id": 1, "title": "Two Sum", "difficulty": "Easy", "tags": ["Array"], "status": "Free", "solved": true },
+      { "id": 2, "title": "Add Two Numbers", "difficulty": "Medium", "tags": ["Linked List"], "status": "Locked", "solved": false }
+ 
+    ],
+    "recentCourses": [
+      { "id": 1, "title": "JavaScript Basics", "description": "Learn the basics of JavaScript." },
+      { "id": 2, "title": "React for Beginners", "description": "An introduction to React." }
+  
+    ],
+    "calendar": [
+      { "date": "2024-08-01", "active": true },
+      { "date": "2024-08-02", "active": false }
+    ],
+    "topics": [
+      { "topic": "Array", "totalProblems": 20 },
+      { "topic": "String", "totalProblems": 15 }
+    ]
+  }
+  
